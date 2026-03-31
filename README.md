@@ -1,6 +1,6 @@
 ### Seongmin Park
 
-I studied aesthetics and architecture — not engineering. What I learned there wasn't technical skill, but a way of seeing: how layers meet, how structure shapes behavior, how environments produce outcomes that willpower alone cannot.
+I studied aesthetics and architecture — What I learned there wasn't technical skill, but a way of seeing: how layers meet, how structure shapes behavior, how environments produce outcomes that willpower alone cannot.
 
 Now I design AI systems that preserve context. The core belief is simple: good thinking depends on good conditions. If the system maintains continuity — of decisions, failures, and questions — the human is freed from the burden of managing context, and can focus on sharper judgment and new connections.
 
@@ -26,7 +26,7 @@ Scaling this from a personal system to an organizational one is what comes next.
 
 ### 박성민
 
-미학과 건축을 공부했다 — 공학이 아니라. 거기서 익힌 건 기술이 아니라 감각이었다: 서로 다른 층위가 만나는 방식, 구조가 행동을 결정하는 방식, 의지만으로는 만들 수 없는 결과를 환경이 만들어내는 방식.
+미학과 건축을 공부했다 — 거기서 익힌 건 기술이 아니라 감각이었다: 서로 다른 층위가 만나는 방식, 구조가 행동을 결정하는 방식, 의지만으로는 만들 수 없는 결과를 환경이 만들어내는 방식.
 
 지금은 맥락을 보존하는 AI 시스템을 설계한다. 핵심 믿음은 단순하다: 좋은 사고는 좋은 조건에 달려 있다. 시스템이 결정, 실패, 질문의 연속성을 유지해주면 — 사람은 맥락을 관리하는 부담에서 벗어나, 더 정확한 판단과 새로운 연결에 집중할 수 있다.
 
